@@ -1,0 +1,10 @@
+{
+  "name": "other",
+  "private": true,
+  "version": "0.0.1",
+  "main": "dist/other.js",
+  "types": "dist/other.d.ts",
+  "dependencies": {
+    "foobar": "^0.0.1"
+  }
+}

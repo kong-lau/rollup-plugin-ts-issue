@@ -1,0 +1,7 @@
+{
+  "name": "foobar",
+  "private": true,
+  "version": "0.0.1",
+  "main": "dist/foobar.js",
+  "types": "dist/foobar.d.ts"
+}

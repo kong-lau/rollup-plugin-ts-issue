@@ -1,1 +1,1 @@
-# -rollup-plugin-ts-issue
+# rollup-plugin-ts-issue
